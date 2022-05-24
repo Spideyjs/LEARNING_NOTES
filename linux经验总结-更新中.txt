@@ -1,0 +1,6 @@
+卸载命令：sudo apt-get remove filename 
+	sudo apt-get autoremove filename 
+解决pip不是最新版无法更新问题：在root模式下
+root模式下安装flake8
+由于是自定义路径安装python3.7，需要自行进入site-packages去安装pip, flake8, yapf等插件
+yapf整理代码格式快捷键：windows shift+alt+f; ubuntu ctrl+shift+i
