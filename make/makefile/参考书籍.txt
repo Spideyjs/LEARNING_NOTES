@@ -1,0 +1,5 @@
+Autotools - A Practioner's Guide to GNU Autoconf, Automake, and Libtool
+https://blog.csdn.net/cloud_desktop/article/details/20559741
+
+官方文档
+https://www.gnu.org/savannah-checkouts/gnu/autoconf/manual/autoconf-2.69/html_node/index.html
